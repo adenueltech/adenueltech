@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Hi, I'm **Emmanuel Adewunmi (Adenuel)**  
+ 
 
 🚀 A Versatile **Full-Stack Software Developer** with proven experience building scalable **web and mobile applications** across **fintech, EdTech, medtech, and Web3**.  
 
@@ -69,8 +69,8 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adenueltech&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenueltech&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
 ---
