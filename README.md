@@ -7,7 +7,7 @@
 
 🚀 A Versatile **Full-Stack Software Developer** with proven experience building scalable **web and mobile applications** across **fintech, EdTech, medtech, and Web3**.  
 
-💻 Skilled in **React, Next.js, NestJS, Django, PostgreSQL, and modern DevOps practices** (Docker, CI/CD, cloud deployments), I specialize in delivering **end-to-end solutions** that merge **functionality with sleek user experience**.  
+💻 Skilled in **React,React native, Next.js,Svelte, Vue, NestJS, Django,Nodejs, express, PostgreSQL, and modern DevOps practices** (Docker, CI/CD, cloud deployments), I specialize in delivering **end-to-end solutions** that merge **functionality with sleek user experience**.  
 
 🌍 Since 2022, I’ve built projects ranging from **finance dashboards and e-commerce apps** to **AI-driven platforms and Web3 integrations**, showcasing adaptability to fast-changing tech landscapes.  
 
