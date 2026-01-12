@@ -75,7 +75,7 @@
 
 ## 📫 Connect With Me  
 
-- 🌐 **Portfolio/Website:** *[Coming soon]*  
+- 🌐 **Portfolio/Website:** https://my-website-iota-bice.vercel.app/  
 - 💼 **LinkedIn:** [Emmanuel Adewunmi](https://www.linkedin.com/in/emmanuel-adewunmi-613512308/)  
 - 🐦 **Twitter/X:** [@adnuel_dev](https://twitter.com/adnuel_dev)  
 - 📧 **Email:** emmanueladewunmi51@gmail.com  
